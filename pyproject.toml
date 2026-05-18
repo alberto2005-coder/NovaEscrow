@@ -1,0 +1,17 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp>=3.12.15",
+    "aiosqlite>=0.21.0",
+    "base58>=2.1.1",
+    "bitcoinlib>=0.7.5",
+    "cryptography>=46.0.2",
+    "discord-py>=2.6.3",
+    "python-dotenv>=1.1.1",
+    "solana>=0.30.2",
+    "solders>=0.26.0",
+    "web3>=7.13.0",
+]
