@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=for-the-badge&logo=python)](https://www.python.org)
 [![Discord.py](https://img.shields.io/badge/discord.py-2.3%2B-5865F2.svg?style=for-the-badge&logo=discord)](https://discordpy.readthedocs.io/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Alberto_Ortiz-orange.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/)
 
 **NovaEscrow** is a state-of-the-art, fully automated multi-chain cryptocurrency escrow bot designed for Discord communities. It enables secure, trustless Peer-to-Peer (P2P) trading of cryptocurrencies directly within private channels, backed by real-time blockchain monitoring.
@@ -166,4 +166,4 @@ BLOCKCYPHER_TOKEN=your_blockcypher_api_token_here
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the "Licencia de Software Libre con Atribución Obligatoria (Licencia Alberto Ortiz)" - see the [LICENSE](LICENSE) file for details.

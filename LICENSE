@@ -1,0 +1,41 @@
+LICENCIA DE SOFTWARE LIBRE CON ATRIBUCIÓN OBLIGATORIA (LICENCIA ALBERTO ORTIZ)
+=============================================================================
+
+Copyright (c) 2026 Alberto Ortiz. Todos los derechos reservados.
+
+Esta Licencia regula el uso, copia, distribución y modificación del software "NovaEscrow" (en adelante, el "Software"), creado y diseñado por Alberto Ortiz.
+
+Al usar, copiar, bifurcar (hacer fork) o modificar este Software, usted acepta quedar vinculado por los términos de esta Licencia.
+
+PERMISOS Y DERECHOS CONCEDIDOS:
+-------------------------------
+
+1. USO GRATUITO:
+   Se concede permiso gratuito a cualquier persona para utilizar este Software con fines personales y no comerciales.
+
+2. BIFURCACIONES Y COPIAS (FORKS):
+   Se permite realizar copias y bifurcaciones ("forks") del Software en plataformas de desarrollo público (como GitHub).
+
+3. MODIFICACIONES DE CÓDIGO:
+   Se permite modificar, adaptar o añadir características al código fuente del Software.
+
+CONDICIONES OBLIGATORIAS:
+-------------------------
+
+Cualquier copia, distribución, publicación o trabajo derivado (incluyendo forks modificados) está estrictamente sujeto a las siguientes condiciones:
+
+A. ATRIBUCIÓN OBLIGATORIA Y CRÉDITOS INTACTOS:
+   - Cualquier fork o copia del Software debe conservar intactos todos los avisos de copyright, logos y nombres de Alberto Ortiz en el código fuente.
+   - El badge de autoría visual ("Desarrollado por Alberto Ortiz" / "Alberto Ortiz") ubicado en la interfaz del programa debe permanecer visible, inalterado y funcional en todo momento.
+
+B. CLARIDAD EN MODIFICACIONES Y FORKS:
+   - Si usted realiza cambios, modificaciones o añade código al Software, debe declarar de forma clara, visible e inequívoca al inicio de su documentación (como el archivo README) y en la interfaz que:
+     "Este Software es una bifurcación/modificación basada en el proyecto original 'NovaEscrow' desarrollado por Alberto Ortiz (https://github.com/alberto2005-coder)."
+   - Se debe dejar constancia de que los cambios son suyos, pero que el diseño y el núcleo original son propiedad exclusiva e intelectual de Alberto Ortiz.
+
+C. PROHIBICIÓN DE USO COMERCIAL:
+   Queda estrictamente prohibida la venta, distribución comercial o explotación económica de este Software, de su código fuente, o de cualquier trabajo derivado del mismo sin el consentimiento expreso y por escrito de Alberto Ortiz.
+
+SIN GARANTÍA:
+-------------
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO. EN NINGÚN CASO EL AUTOR ORIGINAL (ALBERTO ORTIZ) SERÁ RESPONSABLE DE NINGUNA RECLAMACIÓN O DAÑO DERIVADO DEL USO O MODIFICACIÓN DEL SOFTWARE.
