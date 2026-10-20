@@ -166,4 +166,4 @@ BLOCKCYPHER_TOKEN=your_blockcypher_api_token_here
 ---
 
 ## 📄 License
-This project is licensed under the "Licencia de Software Libre con Atribución Obligatoria (Licencia Alberto Ortiz)" - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - see the [LICENSE](LICENSE) file for details.
